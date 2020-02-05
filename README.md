@@ -1,3 +1,3 @@
-# Hello LINGGA BOTAX!
+# Hello DADI BOTAX!
 
 Saya sedang belajar git.s
