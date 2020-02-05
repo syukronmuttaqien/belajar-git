@@ -1,4 +1,4 @@
-# Hello lingga norak.
+# Hello.
 
 Saya sedang belajar git.
 
